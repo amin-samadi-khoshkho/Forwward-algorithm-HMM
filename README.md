@@ -24,4 +24,4 @@ possible output symbols A and B.
 
 a. Sketch the state diagram for two models.
 
-b. Which model is more likely to produce the observation sequence {$A, B, A$} ?
+b. Which model is more likely to produce the observation sequence {A, B, A} ?
