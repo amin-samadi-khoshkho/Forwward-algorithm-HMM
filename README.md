@@ -1,4 +1,4 @@
-# Forwward-algorithm-HMM
+# Forward-algorithm-HMM
 This problem is from an assignment of my Pattern Recognition course in 2019.
 
 1. Show that for a Markov Chain, $𝑃(𝑞_𝑡|𝑞_𝑡+1, … , 𝑞_𝑇) = 𝑃(𝑞_𝑡| 𝑞_𝑡+1)$.
